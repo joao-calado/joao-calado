@@ -24,3 +24,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
   * Graduated in Computer Science;
   * Ask me about anything you want;
   * Eternal student;
+
+![Snake animation](https://github.com/joao-calado/joao-calado/blob/output/github-contribution-grid-snake.svg)
