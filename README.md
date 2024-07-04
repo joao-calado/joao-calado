@@ -20,7 +20,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
   
 ## Some things about me:
   * IT enthusiast;
-  * Looking for the first opportunity to start my career;
   * Graduated in Computer Science;
   * Ask me about anything you want;
   * Eternal student;
