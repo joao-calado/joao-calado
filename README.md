@@ -31,6 +31,6 @@ Profissional de DevOps com sólida base em Ciência da Computação e paixão po
 Tenho experiência na construção de pipelines CI/CD, administração de ambientes cloud (Azure), conteinerização com Docker/Kubernetes e monitoramento de sistemas.  
 Adoro aprender novas tecnologias e discutir arquiteturas resilientes.  
 Pergunte-me sobre Cloud, pipelines, monitoramento ou qualquer desafio de infra!  
-*Eternal student.* 📚
+*Eterno estudante.* 📚
 
 ![Snake animation](https://github.com/joao-calado/joao-calado/blob/output/github-contribution-grid-snake.svg)
